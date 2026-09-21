@@ -1,0 +1,6 @@
+pio run                               // this should build the project
+pio run -t upload                     // build and flash 
+pio run -t clean                      // 
+pio run -t clean && pio run -t upload //clean and fresh build
+
+pio device list // list conected boards
