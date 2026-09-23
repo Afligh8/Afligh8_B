@@ -11,3 +11,4 @@ https://github.com/STMicroelectronics/stm32f4xx-hal-driver
 https://github.com/STMicroelectronics/STM32CubeF4
 https://github.com/platformio/platform-ststm32/tree/develop/examples
 https://docs.platformio.org/en/latest/tutorials/index.html
+https://docs.platformio.org/en/latest/frameworks/stm32cube.html#framework-stm32cube
